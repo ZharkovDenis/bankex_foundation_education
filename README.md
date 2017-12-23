@@ -1,4 +1,6 @@
-# Educational program: Basics of smart contracts
+![bkx-blockchain-education-github](https://user-images.githubusercontent.com/3356474/34314177-29174edc-e782-11e7-8efd-1f26e35c3398.png)
+
+# Course01: Basics of smart contracts
 
 ## Это обучающая программа BANKEX Foundation по основам работы с блокчейн технологиями
 Для прохождения курса не нужно быть опытным программистом - достаточно базовых знаний работы с компьютером.
@@ -15,10 +17,10 @@
 
 ## Регистрация на курс:
 1. Для регистрации и отправки задач вам нужно:
-1. Склонировать репозиторий https://github.com/BankEx/bankex_foundation_education
-1. Создать папку со своим ником
+1. Сделать форк репозитория https://github.com/BankEx/bankex_foundation_education
+1. Создать новую папку в вашем репозитории, название новой папки должно совпадать с username'ом вашего Github аккаунта
 1. Создать там небольшое резюме в формате txt или markdown.
-1. Закомитить его в репозиторий
+1. Закомитить его в ваш репозиторий
 1. Сделать pull request в репозиторий https://github.com/BankEx/bankex_foundation_education
 1. Ожидайте рассмотрения вашей заявки. :+1:
 
